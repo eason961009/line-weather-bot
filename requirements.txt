@@ -40,7 +40,7 @@ setuptools==80.9.0
 six==1.17.0
 sympy==1.14.0
 tokenizers==0.21.1
-torch==2.7.1+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.1+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html
 tqdm==4.67.1
 transformers==4.52.4
 typing-inspection==0.4.1
